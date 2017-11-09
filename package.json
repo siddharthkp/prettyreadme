@@ -1,0 +1,22 @@
+{
+  "name": "prettyreadme",
+  "version": "1.0.0",
+  "description": "Automated my style of readme",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/prettyreadme.git"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharthkp/prettyreadme/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/prettyreadme#readme",
+  "dependencies": {
+    "prettycli": "1.4.3",
+    "read-pkg-up": "3.0.0"
+  }
+}
